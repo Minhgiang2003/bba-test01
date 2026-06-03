@@ -12,4 +12,4 @@ console.log(`Tổng số coins của 3 level là: ${totalCoins}`);
 console.log(`Trung bình coins của 3 level là: ${averageCoins}`);
 console.log(`Số coin dư khi chia tổng cho 3 là: ${remainderCoins}`);
 console.log(`PlayerName: ${playerName}`);
-console.log(`currentLives: ${currentLives}`);
+console.log(`currentLives: ${currentLives}`); 
